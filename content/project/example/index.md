@@ -1,8 +1,8 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Introduced species as a means of studying incipient divergence 
+summary:
 tags:
-- Deep Learning
+- Incipient Divergence
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
