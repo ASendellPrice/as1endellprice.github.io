@@ -1,5 +1,5 @@
 ---
-title: "Rapid morphological divergence following a human-mediated introduction: the role of drift and directional selection"
+title: "Rapid morphological divergence following a human-mediated introduction - the role of drift and directional selection"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
