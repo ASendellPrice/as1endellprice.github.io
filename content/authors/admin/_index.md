@@ -64,6 +64,6 @@ email: ""
 highlight_name: false
 ---
 
-I am an evolutionary biologist and population geneticist based at Uppsala University in Sweden. Using next generation sequencing techniques, I study the genetic basis of local adaptation in 🦜 + 🐟. My research interests predominantly centre around understanding how populations respond to environmental change, with a particular interest in the changes that take place during the first few generations following the colonisation of new environments.
+I am an evolutionary biologist and population geneticist based at Uppsala University in Sweden. Using next generation sequencing techniques, I study the genetic basis 🧬 of local adaptation in 🦜 + 🐟. My research interests predominantly centre around understanding how populations respond to environmental change, with a particular interest in the changes that take place during the first few generations following the colonisation of new environments.
 
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/AshSendell-PriceCV.pdf" "newtab" >}}resumé{{< /staticref >}}.
